@@ -1,6 +1,6 @@
 {
     "data": {
-        "FuturiseFlightTest_120519": {
+        0: {
             "token": "some_token_here",
             "Name": "FuturiseFlightTest_120520",
             "Id": 0,
@@ -13,7 +13,7 @@
                 "alt": 5.000000
             }
         },
-        "FuturiseFlightTest_120520": {
+        1: {
             "token": "some_token_here",
             "Name": "FuturiseFlightTest_120520",
             "Id": 0,
